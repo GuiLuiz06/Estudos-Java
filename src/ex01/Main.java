@@ -1,4 +1,4 @@
-package Exercicios;
+package ex01;
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -22,6 +22,5 @@ public class Main {
         x.altura = sc.nextDouble();
 
         System.out.println("Olá, " + x.nome + ", você tem " + x.idade + " anos e tem " + x.altura + " de altura. (:");
-
     }
 }

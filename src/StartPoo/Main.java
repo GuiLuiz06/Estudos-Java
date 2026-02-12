@@ -22,11 +22,10 @@ public class Main {
         y.b = sc.nextDouble();
         y.c = sc.nextDouble();
 
-        double p = (x.a + x.b + x.c) / 2.0;
-        double areaX = Math.sqrt(p * (p - x.a) * (p - x.b) * (p - x.c));
 
-        p = (y.a + y.b + y.c) / 2.0;
-        double areaY = Math.sqrt(p * (p - y.a) * (p - y.b) * (p - y.c));
+        double areaX = x.calcArea();
+
+        double areaY = y.calcArea();
 
         System.out.println("StartPoo.Triangle X area: " + String.format("%.4f", areaX));
         System.out.println("StartPoo.Triangle Y area: " + String.format("%.4f", areaY));

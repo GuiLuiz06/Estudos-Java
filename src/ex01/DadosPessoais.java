@@ -1,4 +1,4 @@
-package Exercicios;
+package ex01;
 
 public class DadosPessoais {
 
