@@ -1,4 +1,4 @@
-package StartPoo;
+package Assuntos.StartPoo;
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -27,8 +27,8 @@ public class Main {
 
         double areaY = y.calcArea();
 
-        System.out.println("StartPoo.Triangle X area: " + String.format("%.4f", areaX));
-        System.out.println("StartPoo.Triangle Y area: " + String.format("%.4f", areaY));
+        System.out.println("Assuntos.StartPoo.Triangle X area: " + String.format("%.4f", areaX));
+        System.out.println("Assuntos.StartPoo.Triangle Y area: " + String.format("%.4f", areaY));
 
         if (areaX > areaY) {
             System.out.println("Larger area: X");

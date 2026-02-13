@@ -1,4 +1,4 @@
-package ex02;
+package Exercicios.ex02;
 
 public class Product {
 

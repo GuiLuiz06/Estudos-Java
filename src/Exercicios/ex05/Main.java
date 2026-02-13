@@ -1,4 +1,4 @@
-package ex05;
+package Exercicios.ex05;
 
 import java.util.Locale;
 import java.util.Scanner;

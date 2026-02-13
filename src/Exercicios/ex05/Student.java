@@ -1,4 +1,4 @@
-package ex05;
+package Exercicios.ex05;
 
 public class Student {
 
