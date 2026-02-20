@@ -1,0 +1,4 @@
+    String name; // quando não tem modificador significa que pode ser acessado em outra classe dentro do mesmo pacote
+    private double price; // o private é somente acessível dentro da mesma classe
+    protected int exemplo; // o protected só pode ser acessado no mesmo pacote, bem como em subclasses de pacotes diferentes
+    public int exemplo2; // o public é acessado por todas as classes
