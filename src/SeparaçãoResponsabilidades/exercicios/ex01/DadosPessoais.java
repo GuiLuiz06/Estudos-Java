@@ -1,4 +1,4 @@
-package StartPoo.exercicios.ex01;
+package SeparaçãoResponsabilidades.exercicios.ex01;
 
 public class DadosPessoais {
 

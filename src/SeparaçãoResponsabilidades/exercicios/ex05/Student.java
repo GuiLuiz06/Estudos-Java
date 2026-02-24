@@ -1,4 +1,4 @@
-package StartPoo.exercicios.ex05;
+package SeparaçãoResponsabilidades.exercicios.ex05;
 
 public class Student {
 

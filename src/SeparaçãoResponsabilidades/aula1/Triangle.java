@@ -1,4 +1,4 @@
-package StartPoo.aula1;
+package SeparaçãoResponsabilidades.aula1;
 
 public class Triangle {
 

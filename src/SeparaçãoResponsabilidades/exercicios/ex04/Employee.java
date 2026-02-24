@@ -1,4 +1,4 @@
-package StartPoo.exercicios.ex04;
+package SeparaçãoResponsabilidades.exercicios.ex04;
 
 public class Employee {
 

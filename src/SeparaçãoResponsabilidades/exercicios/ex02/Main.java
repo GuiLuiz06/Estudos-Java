@@ -1,4 +1,4 @@
-package StartPoo.exercicios.ex02;
+package SeparaçãoResponsabilidades.exercicios.ex02;
 
 import java.util.Locale;
 import java.util.Scanner;
