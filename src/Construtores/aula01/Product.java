@@ -6,7 +6,7 @@ public class Product {
     public double price;
     public int quantidade;
 
-    // o usuario é obrigado a entrar com os dados
+    // Definição de valores iniciais para o objeto
     public Product(String name, double price, int quantidade) {
         this.name = name;
         this.price = price;
