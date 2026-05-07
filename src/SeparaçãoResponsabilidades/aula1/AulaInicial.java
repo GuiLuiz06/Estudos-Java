@@ -1,4 +1,4 @@
-package StartPoo.aula1;
+package SeparaçãoResponsabilidades.aula1;
 
 import java.util.Locale;
 import java.util.Scanner;

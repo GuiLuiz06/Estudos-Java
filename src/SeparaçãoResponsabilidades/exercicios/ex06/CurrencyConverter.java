@@ -1,4 +1,4 @@
-package StartPoo.exercicios.ex06;
+package SeparaçãoResponsabilidades.exercicios.ex06;
 
 public class CurrencyConverter {
 
