@@ -1,4 +1,4 @@
-package Agregação.ex01;
+package Agregacao.ex01;
 
 public class Recurso {
 

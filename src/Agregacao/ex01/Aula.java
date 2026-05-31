@@ -1,4 +1,4 @@
-package Agregação.ex01;
+package Agregacao.ex01;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
